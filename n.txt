@@ -1,0 +1,1 @@
+pip install spacy nltk scikit-learn torch transformers tensorflow pandas numpy keras matplotlib seaborn wordcloud langdetect scipy && python -m spacy download en_core_web_sm
